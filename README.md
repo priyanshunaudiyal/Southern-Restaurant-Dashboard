@@ -26,7 +26,5 @@ Developed an interactive Power BI dashboard for a restaurant chain, analyzing sa
 3. Explore the different tabs to view the dashboard's features.
 4. Use slicers to filter data by location, date, and other dimensions.
 
-## Screenshots
-
 ## Conclusion
 This dashboard is designed to provide valuable insights into restaurant performance, helping
